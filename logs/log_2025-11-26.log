@@ -1,0 +1,41 @@
+2025-11-26 11:57:59,741 - INFO - Data processing Initialized
+2025-11-26 11:58:45,079 - INFO - Data processing Initialized
+2025-11-26 11:58:50,940 - INFO - Data loaded sucesfully for Data Processing
+2025-11-26 11:58:51,389 - INFO - Filtered users successfully
+2025-11-26 11:58:51,405 - ERROR - Error in D:\MLOPS\MLOPS-2\src\Data_processing.py , line 50 : Failed to filter data
+2025-11-26 12:01:02,575 - INFO - Data processing Initialized
+2025-11-26 12:01:03,924 - INFO - Data loaded sucesfully for Data Processing
+2025-11-26 12:01:04,149 - INFO - Filtered users sucesfully...
+2025-11-26 12:01:05,437 - INFO - Scalind done for Processing 
+2025-11-26 12:01:05,733 - INFO - Encoding done for Users and Anime
+2025-11-26 12:01:07,023 - INFO - Data splitted sucesfullyy
+2025-11-26 12:01:07,084 - INFO - user2user_encoded saved successfully in processed directory
+2025-11-26 12:01:07,105 - INFO - user2user_decoded saved successfully in processed directory
+2025-11-26 12:01:07,154 - INFO - anim2anime_encoded saved successfully in processed directory
+2025-11-26 12:01:07,212 - INFO - anim2anime_decoded saved successfully in processed directory
+2025-11-26 12:01:07,399 - ERROR - Error in D:\MLOPS\MLOPS-2\src\Data_processing.py , line 117 : Failed to save artifacts data
+2025-11-26 12:03:45,793 - INFO - Data processing Initialized
+2025-11-26 12:04:00,252 - INFO - Data loaded sucesfully for Data Processing
+2025-11-26 12:04:03,333 - INFO - Filtered users sucesfully...
+2025-11-26 12:04:05,416 - INFO - Scalind done for Processing 
+2025-11-26 12:04:06,495 - INFO - Encoding done for Users and Anime
+2025-11-26 12:04:12,304 - INFO - Data splitted sucesfullyy
+2025-11-26 12:04:12,340 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-11-26 12:04:12,353 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-11-26 12:04:12,403 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-11-26 12:04:12,451 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-11-26 12:04:20,257 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-11-26 12:04:20,259 - ERROR - Error in D:\MLOPS\MLOPS-2\src\Data_processing.py , line 128 : Failed to save animje and anime_synopsis data
+2025-11-26 12:06:04,210 - INFO - Data processing Initialized
+2025-11-26 12:06:05,449 - INFO - Data loaded sucesfully for Data Processing
+2025-11-26 12:06:05,715 - INFO - Filtered users sucesfully...
+2025-11-26 12:06:06,794 - INFO - Scalind done for Processing 
+2025-11-26 12:06:07,040 - INFO - Encoding done for Users and Anime
+2025-11-26 12:06:07,930 - INFO - Data splitted sucesfullyy
+2025-11-26 12:06:07,938 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-11-26 12:06:07,951 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-11-26 12:06:07,988 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-11-26 12:06:08,022 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-11-26 12:06:15,117 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-11-26 12:06:23,012 - INFO - DF AND SYNOPSIS_Df saved sucesfullyy...
+2025-11-26 12:06:23,012 - INFO - Data Processing Pipeline Run sucesfully .... Congrats
